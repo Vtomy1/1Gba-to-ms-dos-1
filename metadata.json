@@ -1,0 +1,6 @@
+{
+  "name": "GBA to MS-DOS Mode 13h Studio",
+  "description": "Convert and package Game Boy Advance ROMs into authentic MS-DOS MZ executables for 8-bit 320x200 VGA Mode 13h.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
